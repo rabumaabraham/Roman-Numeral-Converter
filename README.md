@@ -42,7 +42,6 @@ Check the live demo [here](https://your-project-link.com).
 
 ## Screenshots
 ![Roman Numeral Converter](![image](https://github.com/user-attachments/assets/01d6a14c-07f2-4660-ba23-7038e2960c76)
-)
 
 ## Contributing
 Contributions are welcome! To contribute:
