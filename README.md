@@ -18,7 +18,7 @@ A simple web application that converts numbers into Roman numerals.
 - User-friendly interface.
 
 ## Demo
-Check the live demo [here](https://your-project-link.com).
+Check the live demo [here](https://rabumaabraham.github.io/Roman-Numeral-Converter/).
 
 ## Technologies Used
 - HTML
@@ -32,7 +32,7 @@ Check the live demo [here](https://your-project-link.com).
     ```
 2. Navigate into the project directory:
     ```
-    cd Roman-Numeral-Converter
+    cd Roman Numeral Converter
     ```
 3. Open `index.html` in your browser or use a live server.
 
