@@ -41,7 +41,7 @@ Check the live demo [here](https://your-project-link.com).
 2. Click the "Convert" button to get the Roman numeral.
 
 ## Screenshots
-(![image](https://github.com/user-attachments/assets/01d6a14c-07f2-4660-ba23-7038e2960c76)
+![image](https://github.com/user-attachments/assets/01d6a14c-07f2-4660-ba23-7038e2960c76)
 
 ## Contributing
 Contributions are welcome! To contribute:
